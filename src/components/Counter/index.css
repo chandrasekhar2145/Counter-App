@@ -1,0 +1,42 @@
+.container {
+  background-image: url('https://res.cloudinary.com/ddvqjo4f2/image/upload/v1701582932/pexels-pixabay-36717_c9wr4b.jpg');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 55px;
+  color: #ffff;
+  font-weight: bold;
+}
+
+.count {
+  font-size: 80px;
+  font-family: 'Roboto';
+  color: #ffff;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.button {
+  font-size: 19px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 8px;
+  margin-top: 10px;
+  background-color: lightcoral;
+  border-style: solid 1px transparent;
+  border-radius: 4px;
+}
+
+ 
